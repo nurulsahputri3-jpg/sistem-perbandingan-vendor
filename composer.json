@@ -1,0 +1,7 @@
+{
+    "name": "angkasa-pura/vendor-budget-report",
+    "description": "Vendor budget report Excel export support",
+    "require": {
+        "phpoffice/phpspreadsheet": "*"
+    }
+}
